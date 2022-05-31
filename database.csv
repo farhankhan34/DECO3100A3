@@ -1,0 +1,13 @@
+country_iso,labels,values
+AUS,Wages,20
+AUS,Operating_expenses,3
+AUS,Cost_of_sales,4
+AUS,Insurance,4
+JPN,Wages,67
+JPN,Operating_expenses,36
+JPN,Cost_of_sales,78
+JPN,Insurance,45
+USA,Wages,2
+USA,Operating_expenses,4
+USA,Cost_of_sales,8
+USA,Insurance,6
